@@ -10,16 +10,16 @@ const page = () => {
       <h1 className="font-bold text-4xl"> About Me </h1>
       <br />
       <p>
-        I'm a curious and driven individual with a passion for technology,Web
+        I&apos;m a curious and driven individual with a passion for technology,Web
         Development.
-        <br /> I'm known for being adaptable, enthusiastic, and someone who
+        <br /> I&apos;m known for being adaptable, enthusiastic, and someone who
         values collaboration and creativity.
       </p>
 
       <p>
-        Beyond my professional interests, I enjoy cooking, and I'm always
+        Beyond my professional interests, I enjoy cooking, and I&apos;m always
         looking for the next opportunity to learn something new.
-        <br /> I'm excited to connect with others who share similar passions and
+        <br /> I&apos;m excited to connect with others who share similar passions and
         to make a positive impact in any environment I find myself in.
       </p>
       <Image

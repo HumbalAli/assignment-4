@@ -21,7 +21,7 @@ const page = () => {
         <br /> With Tailwind, we can create custom, theme-consistent designs
         faster, giving you a unique and professional look without the typical
         constraints of traditional CSS frameworks.
-        <br /> Tailwind’s flexibility allows us to tailor each site to fit your
+        <br /> Tailwind&apos;s flexibility allows us to tailor each site to fit your
         brand perfectly, resulting in a modern, cohesive user experience.
       </p>
       <br />

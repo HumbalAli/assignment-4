@@ -22,7 +22,7 @@ const page = () => {
         styled for consistency, responsiveness, and accessibility, creating an
         interface that enhances the user experience.
         <br />
-        Whether you’re looking to update a single page or build a fully
+        Whether you&apos;re looking to update a single page or build a fully
         customized site from scratch, our team has the expertise to deliver
         exceptional results.
       </p>
